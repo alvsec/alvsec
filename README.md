@@ -10,7 +10,7 @@
 
 ---
 
-### 👋 Sobre mí
+### Sobre mí
 
 Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos autorizados y de laboratorio** para ayudar a que se corrijan antes de que las use un atacante real. Me interesa especialmente el cruce entre **red team e inteligencia artificial**: cómo la IA cambia tanto el ataque como la defensa.
 
@@ -23,10 +23,10 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ### 🛠️ Stack y herramientas
 
-**Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL
-**Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf
-**Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon
-**IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad
+**Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
+**Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
+**Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
+**IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
 **Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
@@ -42,7 +42,7 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ### 📚 Certificaciones y formación
 
-- Sec+ · eJPT · PNPT · OSCP · CEH
+- Sec+ · [eJPT · PNPT · OSCP · CEH] -> En preparación
 - C++ & Python DMI
 
 ---
@@ -52,6 +52,6 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 Todo el contenido de este perfil tiene fines **educativos y de investigación defensiva**. Las técnicas y herramientas se desarrollan y prueban únicamente en sistemas propios o con permiso explícito del propietario. No apoyo ni facilito el acceso no autorizado a sistemas.
 
 <p align="center">
-  <a href="[tu LinkedIn]">LinkedIn</a> ·
-  <a href="mailto:[tu email]">Email</a>
+  <a href="[www.linkedin.com/in/álvaro-irún-brea-293346390]">LinkedIn</a> ·
+  <a href="mailto:[alvaro.domain.sec@proton.me]">Email</a>
 </p>
