@@ -1,11 +1,11 @@
 <!--
-  README de perfil de GitHub — nonnamme (@GreyHatUser)
+  README de perfil de GitHub - nonnamme (@GreyHatUser)
 -->
 
 <h1 align="center">nonnamme</h1>
 <p align="center">
   <b>Offensive Security · Red Team · Security Research con foco en IA</b><br>
-  <sub>Hacking ético · pruebas autorizadas · divulgación responsable</sub>
+  <sub>Hacking ético · Pruebas de seguridad · Divulgación</sub>
 </p>
 
 ---
@@ -23,11 +23,11 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ### 🛠️ Stack y herramientas
 
-**· Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
-**· Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
-**· Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
-**· IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
-**· Entornos:** Kali · Docker · VirtualBox · Arch
+- **Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
+- **Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
+- **Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
+- **IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
+- **Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
 
