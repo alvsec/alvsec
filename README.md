@@ -24,13 +24,9 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 ### 🛠️ Stack y herramientas
 
 **Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL
-
 **Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf
-
 **Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon
-
 **IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad
-
 **Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
@@ -40,7 +36,7 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
 | **[ESP32Marauder-GPS-Updates](https://github.com/GreyHatUser/ESP32Marauder-GPS-Updates)** | Mejoras de funciones GPS para la firmware ESP32 Marauder (WiFi/BT recon y wardriving). | C++ |
-| **[Saldio.co]** | Aplicación de gestión financiera completa con análisis y gestión de activos. | Rust · C++ · CSS ·  TypeScript · JavaScript|
+| **[Saldio.co](https://github.com/GreyHatUser/saldio-releases)** | Aplicación de gestión financiera completa con análisis y gestión de activos. | Rust · C++ · CSS ·  TypeScript · JavaScript|
 
 ---
 
