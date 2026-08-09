@@ -24,9 +24,13 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 ### 🛠️ Stack y herramientas
 
 **Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL
+
 **Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf
+
 **Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon
+
 **IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad
+
 **Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
