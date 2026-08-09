@@ -23,11 +23,11 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ### 🛠️ Stack y herramientas
 
-**Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
-**Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
-**Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
-**IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
-**Entornos:** Kali · Docker · VirtualBox · Arch
+**- Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
+**- Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
+**- Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
+**- IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
+**- Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
 
@@ -52,6 +52,6 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 Todo el contenido de este perfil tiene fines **educativos y de investigación defensiva**. Las técnicas y herramientas se desarrollan y prueban únicamente en sistemas propios o con permiso explícito del propietario. No apoyo ni facilito el acceso no autorizado a sistemas.
 
 <p align="center">
-  <a href="[www.linkedin.com/in/álvaro-irún-brea-293346390]">LinkedIn</a> ·
-  <a href="mailto:[alvaro.domain.sec@proton.me]">Email</a>
+  <a href="https://www.linkedin.com/in/álvaro-irún-brea-293346390">LinkedIn</a> ·
+  <a href="mailto:alvaro.domain.sec@proton.me">Email</a>
 </p>
