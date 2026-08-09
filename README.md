@@ -23,11 +23,11 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ### 🛠️ Stack y herramientas
 
-**- Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
-**- Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
-**- Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
-**- IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
-**- Entornos:** Kali · Docker · VirtualBox · Arch
+**· Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
+**· Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
+**· Hardware / RF:** ESP32 (Marauder) · wardriving / WiFi recon<br>
+**· IA / ML:** PyTorch · transformers · LLMs aplicados a seguridad<br>
+**· Entornos:** Kali · Docker · VirtualBox · Arch
 
 ---
 
