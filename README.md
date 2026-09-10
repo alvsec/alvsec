@@ -10,18 +10,18 @@
 
 ---
 
-### 👾Sobre mí
+### Sobre mí
 
 Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos autorizados y de laboratorio** para ayudar a que se corrijan antes de que las use un atacante real. Me interesa especialmente el cruce entre **red team e inteligencia artificial**: cómo la IA cambia tanto el ataque como la defensa.
 
-- 🎯 Enfoque: red team, pentesting, seguridad ofensiva y aplicaciones de IA a la seguridad
-- 🧪 Todo mi trabajo ofensivo es en laboratorios propios, entornos de práctica (CTF/HTB/THM) o con autorización explícita
-- 🔬 Aprendiendo y construyendo en: explotación web, AD, hardware/RF, evasión, LLM security
-- 📫 Contacto: alvaro.domain.sec@proton.me
+- Enfoque: red team, pentesting, seguridad ofensiva y aplicaciones de IA a la seguridad
+- Todo mi trabajo ofensivo es en laboratorios propios, entornos de práctica (CTF/HTB/THM) o con autorización explícita
+- Aprendiendo y construyendo en: explotación web, AD, hardware/RF, evasión, LLM security
+- Contacto: alvaro.domain.sec@proton.me
 
 ---
 
-### 🛠️ Stack y herramientas
+### Stack y herramientas
 
 - **Lenguajes:** Python · Bash · C/C++ · Rust · JavaScript · CSS · SQL<br>
 - **Ofensiva:** Burp Suite · Nmap · Metasploit · Wireshark · BloodHound · ffuf<br>
@@ -31,7 +31,7 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ---
 
-### 📌 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
@@ -40,14 +40,14 @@ Trabajo en seguridad ofensiva: identifico y exploto debilidades **en entornos au
 
 ---
 
-### 📚 Certificaciones y formación
+### Certificaciones y formación
 
 - Sec+ · [eJPT · PNPT · OSCP · CEH] -> En preparación
 - C++ & Python DMI
 
 ---
 
-### 🤝 Ética
+### Ética
 
 Todo el contenido de este perfil tiene fines **educativos y de investigación defensiva**. Las técnicas y herramientas se desarrollan y prueban únicamente en sistemas propios o con permiso explícito del propietario. No apoyo ni facilito el acceso no autorizado a sistemas.
 
